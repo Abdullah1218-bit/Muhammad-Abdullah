@@ -27,8 +27,8 @@
   <a href="https://github.com/Abdullah1218-bit" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://www.fiverr.com/u_d7b7c0c16cbb/create-data-visualizations-using-python-and-power-bi" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="30" width="60"/>
+   <a href="https://www.fiverr.com/u_d7b7c0c16cbb/create-data-visualizations-using-python-and-power-bi" target="_blank">
+    <img align="center" style="vertical-align: middle;" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="30" width="60"/>
   </a>
 </p>
 
