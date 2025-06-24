@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://www.fiverr.com/u_d7b7c0c16cbb/create-data-visualizations-using-python-and-power-bi" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Fiverr" height="30" width="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="30" width="60"/>
   </a>
 </p>
 
