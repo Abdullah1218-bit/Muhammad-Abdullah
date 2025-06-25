@@ -19,34 +19,71 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
+
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Python</div>
+    </div>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank">
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">NumPy</div>
+    </div>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Pandas</div>
+    </div>
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+
+  <!-- Seaborn -->
+  <a href="https://seaborn.pydata.org" target="_blank">
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Seaborn</div>
+    </div>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+
+  <!-- Matplotlib -->
+  <a href="https://matplotlib.org" target="_blank">
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://matplotlib.org/_static/images/logo2.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Matplotlib</div>
+    </div>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+
+  <!-- Plotly -->
+  <a href="https://plotly.com" target="_blank">
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Plotly</div>
+    </div>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com" target="_blank">
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">VS Code</div>
+    </div>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+
+  <!-- Jupyter -->
+  <a href="https://jupyter.org" target="_blank">
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Jupyter</div>
+    </div>
   </a>
 </p>
 
