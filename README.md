@@ -19,90 +19,71 @@
 
 ---
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="left">Languages & Tools:</h3>
 
-<p align="center">
+<p align="left">
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank">
-  <div style="display: inline-block; text-align: center; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-    <br><span>Python</span>
-  </div>
-</a>
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Python</div>
+    </div>
+  </a>
 
+  <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60" height="60"/>
-      <br><span>NumPy</span>
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">NumPy</div>
     </div>
   </a>
 
+  <!-- Pandas -->
   <a href="https://pandas.pydata.org/" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60"/>
-      <br><span>Pandas</span>
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Pandas</div>
     </div>
   </a>
 
-  <a href="https://scikit-learn.org" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
-      <br><span>Scikit-learn</span>
-    </div>
-  </a>
-
+  <!-- Seaborn -->
   <a href="https://seaborn.pydata.org" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60"/>
-      <br><span>Seaborn</span>
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Seaborn</div>
     </div>
   </a>
 
+  <!-- Matplotlib -->
   <a href="https://matplotlib.org" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://matplotlib.org/_static/images/logo2.svg" width="60" height="60"/>
-      <br><span>Matplotlib</span>
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://matplotlib.org/_static/images/logo2.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Matplotlib</div>
     </div>
   </a>
 
+  <!-- Plotly -->
   <a href="https://plotly.com" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="60" height="60"/>
-      <br><span>Plotly</span>
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Plotly</div>
     </div>
   </a>
 
+  <!-- VS Code -->
   <a href="https://code.visualstudio.com" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="60" height="60"/>
-      <br><span>VS Code</span>
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">VS Code</div>
     </div>
   </a>
 
+  <!-- Jupyter -->
   <a href="https://jupyter.org" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60"/>
-      <br><span>Jupyter</span>
-    </div>
-  </a>
-
-  <a href="https://www.postgresql.org" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
-      <br><span>PostgreSQL</span>
+    <div style="display: inline-block; width: 90px; text-align: center; margin: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60" />
+      <div style="margin-top: 8px;">Jupyter</div>
     </div>
   </a>
 </p>
-
----
-
-<h3 align="center">Office & Editing Tools</h3>
-
-<p align="center">
-  <span style="font-size: 20px; margin: 0 12px;">Word</span>
-  <span style="font-size: 20px; margin: 0 12px;">Photoshop</span>
-  <span style="font-size: 20px; margin: 0 12px;">Illustrator</span>
-  <span style="font-size: 20px; margin: 0 12px;">Premiere Pro</span>
-  <span style="font-size: 20px; margin: 0 12px;">CapCut</span>
-</p>
-
 
