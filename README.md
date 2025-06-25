@@ -23,11 +23,11 @@
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
-    <div style="display: inline-block; text-align: center; width: 90px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
-      <br><span>Python</span>
-    </div>
-  </a>
+  <div style="display: inline-block; text-align: center; width: 90px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
+    <br><span>Python</span>
+  </div>
+</a>
 
   <a href="https://numpy.org/" target="_blank">
     <div style="display: inline-block; text-align: center; width: 90px;">
