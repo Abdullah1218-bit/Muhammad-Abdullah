@@ -70,9 +70,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" style="margin:0 8px;">
-  <img src="https://raw.githubusercontent.com/mayukh18/assets/main/logos/davinciresolve.png" alt="DaVinci Resolve" width="40" height="40"/>
-  </a>
+ [![DaVinci Resolve](https://raw.githubusercontent.com/mayukh18/assets/main/logos/davinciresolve.png)](https://www.blackmagicdesign.com/products/davinciresolve/)
+
 
 
   <!-- Office & Design/Editing Text Badges -->
