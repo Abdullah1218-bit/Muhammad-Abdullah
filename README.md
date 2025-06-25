@@ -70,9 +70,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
   
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" style="margin:0 8px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" width="40" height="40"/>
-  </a>
+ <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" style="margin:0 8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/DaVinci_Resolve_17_logo.svg/512px-DaVinci_Resolve_17_logo.svg.png" alt="DaVinci Resolve" width="40" height="40"/>
+</a>
 
   <!-- Office & Design/Editing Text Badges -->
   <span style="margin:0 8px;">Word</span>
