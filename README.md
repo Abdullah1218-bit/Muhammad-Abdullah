@@ -37,49 +37,53 @@
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <!-- Programming & Data Libraries -->
-  <a href="https://www.python.org" target="_blank" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" style="margin:0 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org" target="_blank" style="margin:0 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org" target="_blank" style="margin:0 8px;">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org" target="_blank" style="margin:0 8px;">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://plotly.com" target="_blank" style="margin:0 8px;">
-    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="40" height="40"/>
-  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://scikit-learn.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://seaborn.pydata.org" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://matplotlib.org" target="_blank">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://plotly.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Tools & Editors -->
-  <a href="https://code.visualstudio.com" target="_blank" style="margin:0 8px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org" target="_blank" style="margin:0 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  
- [![DaVinci Resolve](https://raw.githubusercontent.com/mayukh18/assets/main/logos/davinciresolve.png)](https://www.blackmagicdesign.com/products/davinciresolve/)
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
+  <a href="https://jupyter.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <!-- Office & Design/Editing Text Badges -->
-  <span style="margin:0 8px;">Word</span>
-  <span style="margin:0 8px;">Photoshop</span>
-  <span style="margin:0 8px;">Illustrator</span>
-  <span style="margin:0 8px;">Premiere Pro</span>
-  <span style="margin:0 8px;">CapCut</span>
+  <!-- Office & Design/Editing Tools as Text -->
+  <span style="font-size: 20px;">Word</span>&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 20px;">Photoshop</span>&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 20px;">Illustrator</span>&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 20px;">Premiere Pro</span>&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 20px;">CapCut</span>
 </p>
 
 
