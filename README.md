@@ -19,93 +19,90 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-6ba242371/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Abdullah1218-bit" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.fiverr.com/u_d7b7c0c16cbb/create-data-visualizations-using-python-and-power-bi" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="30" width="60"/>
-  </a>
-</p>
+<h3 align="center">Languages & Tools</h3>
 
----
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-  <!-- Tool 1 -->
+<p align="center">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
-    <div align="center"><sub>Python</sub></div>
-  </a>&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/>
+      <br><span>Python</span>
+    </div>
+  </a>
 
-  <!-- Tool 2 -->
   <a href="https://numpy.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60" height="60" alt="NumPy"/>
-    <div align="center"><sub>NumPy</sub></div>
-  </a>&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60" height="60"/>
+      <br><span>NumPy</span>
+    </div>
+  </a>
 
-  <!-- Tool 3 -->
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
-    <div align="center"><sub>Pandas</sub></div>
-  </a>&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60"/>
+      <br><span>Pandas</span>
+    </div>
+  </a>
 
-  <!-- Tool 4 -->
   <a href="https://scikit-learn.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-learn"/>
-    <div align="center"><sub>Scikit-learn</sub></div>
-  </a>&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60"/>
+      <br><span>Scikit-learn</span>
+    </div>
+  </a>
 
-  <!-- Tool 5 -->
   <a href="https://seaborn.pydata.org" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" alt="Seaborn"/>
-    <div align="center"><sub>Seaborn</sub></div>
-  </a>&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60"/>
+      <br><span>Seaborn</span>
+    </div>
+  </a>
 
-  <!-- Tool 6 -->
   <a href="https://matplotlib.org" target="_blank">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" width="60" height="60" alt="Matplotlib"/>
-    <div align="center"><sub>Matplotlib</sub></div>
-  </a>&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://matplotlib.org/_static/images/logo2.svg" width="60" height="60"/>
+      <br><span>Matplotlib</span>
+    </div>
+  </a>
 
-  <!-- Tool 7 -->
   <a href="https://plotly.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="60" height="60" alt="Plotly"/>
-    <div align="center"><sub>Plotly</sub></div>
-  </a>&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="60" height="60"/>
+      <br><span>Plotly</span>
+    </div>
+  </a>
 
-  <!-- Tool 8 -->
   <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="60" height="60" alt="VS Code"/>
-    <div align="center"><sub>VS Code</sub></div>
-  </a>&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="60" height="60"/>
+      <br><span>VS Code</span>
+    </div>
+  </a>
 
-  <!-- Tool 9 -->
   <a href="https://jupyter.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60" alt="Jupyter"/>
-    <div align="center"><sub>Jupyter</sub></div>
-  </a>&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="60" height="60"/>
+      <br><span>Jupyter</span>
+    </div>
+  </a>
 
-  <!-- Tool 10 -->
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
-    <div align="center"><sub>PostgreSQL</sub></div>
+    <div style="display: inline-block; text-align: center; width: 90px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+      <br><span>PostgreSQL</span>
+    </div>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Office & Editing Tools:</h3>
-<p align="left">
-  <span style="font-size: 20px;">Word</span>&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 20px;">Photoshop</span>&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 20px;">Illustrator</span>&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 20px;">Premiere Pro</span>&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 20px;">CapCut</span>
+<h3 align="center">Office & Editing Tools</h3>
+
+<p align="center">
+  <span style="font-size: 20px; margin: 0 12px;">Word</span>
+  <span style="font-size: 20px; margin: 0 12px;">Photoshop</span>
+  <span style="font-size: 20px; margin: 0 12px;">Illustrator</span>
+  <span style="font-size: 20px; margin: 0 12px;">Premiere Pro</span>
+  <span style="font-size: 20px; margin: 0 12px;">CapCut</span>
 </p>
 
 
