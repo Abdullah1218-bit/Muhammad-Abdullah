@@ -20,22 +20,23 @@
 ---
 
 ---
+---
 
 <h3 align="left">🌐 Social Media:</h3>
 
 <p align="left">
   <!-- GitHub -->
   <a href="https://github.com/Abdullah1218-bit" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40" style="margin-right: 20px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="60" height="60" style="margin-right: 40px;" />
   </a>
 
   <!-- Fiverr -->
   <a href="https://www.fiverr.com/u_d7b7c0c16cbb/do-advanced-data-cleaning-in-excel-power-bi-or-python?context_referrer=tailored_homepage_perseus&source=recently_viewed_gigs&ref_ctx_id=ee66c127893642b2ba38f77626f7e7df&context=recommendation&pckg_id=1&pos=2&context_alg=recently_viewed&seller_online=true&imp_id=1c02d7e6-1f86-4c39-ae65-5d8c934b7064" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Fiverr_Logo_2022.svg" alt="Fiverr" width="60" height="40" style="margin-right: 20px;" />
+    <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" width="80" height="60" style="margin-right: 40px;" />
   </a>
 
-  <!-- LinkedIn (Logo only, no link) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
+  <!-- LinkedIn (no link) -->
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" />
 </p>
 
 
