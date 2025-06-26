@@ -44,53 +44,44 @@
 
 <h3 align="left">🛠️ Tools and Languages:</h3>
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 30px;">
+<p align="left">
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" height="70" />
-    <div>Python</div>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin-right: 25px;"/>
   </a>
 
   <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="70" height="70" />
-    <div>NumPy</div>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60" height="60" style="margin-right: 25px;"/>
   </a>
 
   <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70" height="70" />
-    <div>Pandas</div>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60" style="margin-right: 25px;"/>
   </a>
 
   <!-- Seaborn -->
-  <a href="https://seaborn.pydata.org" target="_blank" style="text-align: center;">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="70" height="70" />
-    <div>Seaborn</div>
+  <a href="https://seaborn.pydata.org" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60" style="margin-right: 25px;"/>
   </a>
 
   <!-- Matplotlib -->
-  <a href="https://matplotlib.org" target="_blank" style="text-align: center;">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" width="70" height="70" />
-    <div>Matplotlib</div>
+  <a href="https://matplotlib.org" target="_blank">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="60" height="60" style="margin-right: 25px;"/>
   </a>
 
   <!-- Plotly -->
-  <a href="https://plotly.com" target="_blank" style="text-align: center;">
-    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" width="70" height="70" />
-    <div>Plotly</div>
+  <a href="https://plotly.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="60" height="60" style="margin-right: 25px;"/>
   </a>
 
   <!-- VS Code -->
-  <a href="https://code.visualstudio.com" target="_blank" style="text-align: center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="70" height="70" />
-    <div>VS Code</div>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" height="60" style="margin-right: 25px;"/>
   </a>
 
   <!-- Jupyter -->
-  <a href="https://jupyter.org" target="_blank" style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="70" height="70" />
-    <div>Jupyter</div>
+  <a href="https://jupyter.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="60" height="60"/>
   </a>
 </p>
-
