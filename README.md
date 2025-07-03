@@ -48,11 +48,37 @@
 ---
 
 ### 🧰 Tools & Technologies
-✅ `Python` (pandas, numpy, matplotlib, seaborn, plotly, sklearn)  
-✅ `Power BI` for business intelligence dashboards  
-✅ `Excel` for formulas, pivot tables, charts, and cleaning  
-✅ `SQL` (basic querying and filtering)  
-✅ AI Tools for video/image generation and editing  
+
+**Visualization:**  
+✅ `Power BI` — interactive dashboards and business reports  
+✅ `matplotlib`, `seaborn`, `plotly` — statistical plots and data storytelling  
+
+**Data Cleaning & Analysis:**  
+✅ `Python` — pandas, numpy for wrangling, cleaning, transforming large datasets  
+✅ `Excel` — formulas, pivot tables, filters, charts for structured analysis  
+
+**Machine Learning:**  
+✅ `scikit-learn` — feature scaling, encoding, model building, pipelines, evaluation  
+✅ `Jupyter Notebook` & `VS Code` — for ML development and experimentation  
+
+**Databases:**  
+✅ `SQL` — basic querying, filtering, sorting, joins for structured data access  
+✅ `PostgreSQL` — currently learning for advanced querying and database handling  
+
+**AI Tools:**  
+✅ AI video tools — text-to-video, image-to-video, video-to-video (for Fiverr & content creation)  
+✅ AI image generators — text-to-image visuals for presentations and promos  
+
+**Video Editing:**  
+✅ `Adobe Premiere Pro` — advanced editing, color grading, transitions  
+✅ `CapCut` — quick edits, subtitles, TikTok/YouTube-friendly content  
+✅ `DaVinci Resolve` — professional color grading and editing workflow  
+✅ `Filmora` — beginner-friendly effects and video creation  
+
+**Photo Editing & Design:**  
+✅ `Adobe Photoshop` — professional image editing, retouching, background removal  
+✅ `Adobe Illustrator` — vector designs, banners, logos, and professional graphics  
+✅ `Canva` — quick designs, social media graphics, thumbnails, posters  
 
 ---
 
