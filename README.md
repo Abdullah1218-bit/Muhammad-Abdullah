@@ -1,21 +1,65 @@
-# Muhammad-Adbullah
-👋 Welcome to my GitHub profile!
-<h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A passionate data analyst, video editor, and aspiring machine learning engineer from Pakistan</h3>
+## 👋 Hi, I'm Muhammad Abdullah  
+**Data Analyst | Machine Learning Enthusiast | AI Video Creator**
 
-- 🔭 I’m currently working on [House Rent Data Analysis](https://github.com/Abdullah1218-bit/House-Rent-Data-Analysis/tree/main/House%20Rent%20Data%20Analysis)
+---
 
-- 🌱 I’m currently learning **Machine Learning, Power BI, and PostgreSQL** to enhance my data analysis skills.
+### 🔍 About Me
+✅ Passionate data analyst focused on turning raw data into actionable insights  
+✅ Skilled in Python, Power BI, Excel, and basic SQL  
+✅ Currently learning machine learning to enhance data-driven decision-making  
+✅ Experienced in AI-based video creation for content and Fiverr clients  
+✅ Always eager to learn, collaborate, and solve real-world problems  
 
-- 👯 I’m looking to collaborate on [Data Analyst Projects](https://github.com/Abdullah1218-bit/House-Rent-Data-Analysis/tree/main/House%20Rent%20Data%20Analysis)
+---
 
-- 🤝 I’m looking for help with [Machine Learning Projects](https://github.com/Abdullah1218-bit/Machine-Learning-Projects/tree/main/ML%20on%20insurance%20data)
+### 🧹 Data Cleaning
+✅ Remove missing values using statistical methods and imputers (mean, median, KNN, etc.)  
+✅ Handle duplicates, inconsistent formats, and incorrect data types  
+✅ Normalize and clean large datasets (500MB+) using `pandas`  
+✅ Encode categorical variables (Label, One-Hot, Ordinal, Target)  
+✅ Detect and treat outliers using IQR, Z-score, and visual methods  
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Abdullah1218-bit?tab=repositories)
+---
 
-- 💬 Ask me about **Python, Data Cleaning, Data Visualization, Power BI, and Video Editing**
+### 📊 Data Visualization
+✅ Create professional plots using `matplotlib`, `seaborn`, and `plotly`  
+✅ Design interactive dashboards and visuals in **Power BI**  
+✅ Build charts like bar plots, histograms, pie charts, box plots, and heatmaps  
+✅ Add filters, slicers, and KPIs in Power BI for dynamic reporting  
+✅ Use visual storytelling to uncover insights and trends  
 
-- 📫 How to reach me: **muhammadabdullah61611@gmail.com**
+---
+
+### 🧪 Data Preparation for Machine Learning
+✅ Scale features using StandardScaler, MinMaxScaler, Quantile & PowerTransformer  
+✅ Use feature engineering techniques to improve model performance  
+✅ Build preprocessing pipelines using `scikit-learn`  
+✅ Evaluate model inputs for skewness, correlation, and feature importance  
+✅ Understand how to structure training and test sets properly  
+
+---
+
+### 🎬 AI Video Creation
+✅ Convert text into videos using AI video generators  
+✅ Transform voice or script into dynamic visuals  
+✅ Use AI for image-to-video and video-to-video generation  
+✅ Ideal for Fiverr clients wanting tech-style intros or explainer content  
+
+---
+
+### 🧰 Tools & Technologies
+✅ `Python` (pandas, numpy, matplotlib, seaborn, plotly, sklearn)  
+✅ `Power BI` for business intelligence dashboards  
+✅ `Excel` for formulas, pivot tables, charts, and cleaning  
+✅ `SQL` (basic querying and filtering)  
+✅ AI Tools for video/image generation and editing  
+
+---
+
+### 📫 Contact Me
+✅ Email: **muhammadabdullah61611@gmail.com**  
+✅ Open to collaboration on data projects, AI content, and machine learning work
+
 
 ---
 
