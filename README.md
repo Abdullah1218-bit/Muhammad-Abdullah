@@ -83,7 +83,8 @@
 ---
 
 ### 📫 Contact Me
-✅ Email: **muhammadabdullah61611@gmail.com**  
+✅ Email: **abdullah797815@gmail.com**  
+
 ✅ Open to collaboration on data projects, AI content, and machine learning work
 
 
