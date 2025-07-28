@@ -6,7 +6,7 @@
 ### 🔍 About Me
 ✅ Passionate about solving real-world problems with data and intelligent systems  
 ✅ Experienced in full ML pipeline: data preprocessing, modeling, evaluation, and deployment  
-✅ Skilled in Python, scikit-learn, Power BI, Excel, and SQL  
+✅ Skilled in Python, scikit-learn, Power BI, Excel,MySQL and PostgreSQL  
 ✅ Exploring NLP and Deep Learning to build smarter AI solutions  
 ✅ Delivering AI-generated videos and visuals for clients on Fiverr  
 ✅ Always learning, building, and sharing knowledge in tech  
@@ -73,10 +73,10 @@
 |-----------------------|---------------------------------------------------|
 | ML & DS               | Python, scikit-learn, NumPy, pandas, PyCaret      |
 | Visualization         | matplotlib, seaborn, plotly, Power BI             |
-| Data Handling         | Excel, SQL (basic to intermediate), PostgreSQL (learning) |
+| Data Handling         | Excel, MySQL, PostgreSQL                          |
 | Coding Platforms      | Jupyter Notebook, VS Code                         |
 | AI Video Tools        | Pictory, Runway, Synthesia, CapCut AI             |
-| Photo & Video Editing | Photoshop, Illustrator, DaVinci Resolve, Premiere Pro, Filmora |
+| Photo & Video Editing | Photoshop, Illustrator, DaVinci Resolve, Premiere Pro, Filmora and Canva |
 
 
 
