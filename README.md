@@ -103,7 +103,7 @@
 
 <!-- Fiverr -->
 <a href="https://www.fiverr.com/u_d7b7c0c16cbb?source=gig_page" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" width="100" height="40" style="margin-right: 20px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" width="60" height="60" style="margin-right: 20px;" />
 </a>
 
   <!-- LinkedIn (no link) -->
