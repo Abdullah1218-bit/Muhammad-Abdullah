@@ -69,14 +69,14 @@
 
 ### 🧰 Tools & Technologies
 
-| Category              | Tools & Libraries                                 |
-|-----------------------|---------------------------------------------------|
-| ML & DS               | Python, scikit-learn, NumPy, pandas, PyCaret      |
-| Visualization         | matplotlib, seaborn, plotly, Power BI             |
-| Data Handling         | Excel, MySQL, PostgreSQL                          |
-| Coding Platforms      | Jupyter Notebook, VS Code                         |
-| AI Video Tools        | Pictory, Runway, Synthesia, CapCut AI             |
-| Photo & Video Editing | Photoshop, Illustrator, DaVinci Resolve, Premiere Pro, Filmora and Canva |
+| Category              | Tools & Libraries                                                                |
+|-----------------------|----------------------------------------------------------------------------------|
+| ML & DS               | Python, scikit-learn, NumPy, pandas, PyCaret                                     |
+| Visualization         | matplotlib, seaborn, plotly, Power BI                                            |
+| Data Handling         | Excel, MySQL, PostgreSQL                                                         |
+| Coding Platforms      | Jupyter Notebook, VS Code                                                        |
+| AI Video Tools        | Pictory, Runway, Synthesia, CapCut AI                                            |
+| Photo & Video Editing | Photoshop, Illustrator, DaVinci Resolve, Premiere Pro, Filmora, Canva and CapCut |
 
 
 
