@@ -101,10 +101,11 @@
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="60" height="60" style="margin-right: 40px;" />
   </a>
 
-<!-- Fiverr -->
-<a href="https://www.fiverr.com/u_d7b7c0c16cbb?source=gig_page" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" width="60" height="60" style="margin-right: 20px;" />
+<!-- Fiverr Profile -->
+<a href="https://www.fiverr.com/u_d7b7c0c16cbb" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" width="60" height="60" />
 </a>
+
 
   <!-- LinkedIn (no link) -->
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" />
