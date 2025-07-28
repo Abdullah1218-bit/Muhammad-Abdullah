@@ -102,7 +102,7 @@
   </a>
 
   <!-- Fiverr -->
-  <a href="https://www.fiverr.com/u_d7b7c0c16cbb/do-advanced-data-cleaning-in-excel-power-bi-or-python?context_referrer=tailored_homepage_perseus&source=recently_viewed_gigs&ref_ctx_id=ee66c127893642b2ba38f77626f7e7df&context=recommendation&pckg_id=1&pos=2&context_alg=recently_viewed&seller_online=true&imp_id=1c02d7e6-1f86-4c39-ae65-5d8c934b7064" target="_blank">
+  <a href="[https://www.fiverr.com/u_d7b7c0c16cbb/do-advanced-data-cleaning-in-excel-power-bi-or-python?](https://www.fiverr.com/u_d7b7c0c16cbb?source=gig_page)context_referrer=tailored_homepage_perseus&source=recently_viewed_gigs&ref_ctx_id=ee66c127893642b2ba38f77626f7e7df&context=recommendation&pckg_id=1&pos=2&context_alg=recently_viewed&seller_online=true&imp_id=1c02d7e6-1f86-4c39-ae65-5d8c934b7064" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" width="80" height="60" style="margin-right: 40px;" />
   </a>
 
