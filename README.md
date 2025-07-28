@@ -1,84 +1,96 @@
-## 👋 Hi, I'm Muhammad Abdullah  
-**Data Analyst | Machine Learning Enthusiast | AI Video Creator**
+echo ## 👋 Hi, I'm Muhammad Abdullah > README.md
+echo **💻 Machine Learning Engineer ^| 📊 Data Analyst ^| 🤖 NLP Learner ^| 🎬 AI Video Creator** >> README.md
 
----
+echo. >> README.md
+echo --- >> README.md
+echo. >> README.md
 
-### 🔍 About Me
-✅ Passionate data analyst focused on turning raw data into actionable insights  
-✅ Skilled in Python, Power BI, Excel, and basic SQL  
-✅ Currently learning machine learning to enhance data-driven decision-making  
-✅ Experienced in AI-based video creation for content and Fiverr clients  
-✅ Always eager to learn, collaborate, and solve real-world problems  
+echo ### 🔍 About Me >> README.md
+echo ✅ Passionate about solving real-world problems with data and intelligent systems >> README.md
+echo ✅ Experienced in full ML pipeline: data preprocessing, modeling, evaluation, and deployment >> README.md
+echo ✅ Skilled in Python, scikit-learn, Power BI, Excel, and SQL >> README.md
+echo ✅ Exploring NLP and Deep Learning to build smarter AI solutions >> README.md
+echo ✅ Delivering AI-generated videos and visuals for clients on Fiverr >> README.md
+echo ✅ Always learning, building, and sharing knowledge in tech >> README.md
 
----
+echo. >> README.md
+echo --- >> README.md
+echo. >> README.md
 
-### 🧹 Data Cleaning
-✅ Remove missing values using statistical methods and imputers (mean, median, KNN, etc.)  
-✅ Handle duplicates, inconsistent formats, and incorrect data types  
-✅ Normalize and clean large datasets (500MB+) using `pandas`  
-✅ Encode categorical variables (Label, One-Hot, Ordinal, Target)  
-✅ Detect and treat outliers using IQR, Z-score, and visual methods  
+echo ### 📚 Skills Overview >> README.md
 
----
+echo #### 🧠 Machine Learning >> README.md
+echo - Supervised Learning: Linear Regression, Logistic Regression, KNN, SVM, Naive Bayes >> README.md
+echo - Ensemble Models: Random Forest, Extra Trees, Bagging, AdaBoost >> README.md
+echo - Boosting: XGBoost, LightGBM, CatBoost, GradientBoostingRegressor >> README.md
+echo - Unsupervised Learning: K-Means, DBSCAN, PCA, Clustering on synthetic datasets >> README.md
+echo - Regularization: Lasso (L1), Ridge (L2), ElasticNet >> README.md
+echo - Polynomial Regression for non-linear patterns >> README.md
+echo - Hyperparameter tuning: GridSearchCV, RandomizedSearchCV >> README.md
+echo - Cross-validation: K-Fold, Stratified K-Fold >> README.md
+echo - Evaluation metrics: MAE, MSE, RMSE, R², Accuracy, Precision, Recall, F1-Score >> README.md
 
-### 📊 Data Visualization
-✅ Create professional plots using `matplotlib`, `seaborn`, and `plotly`  
-✅ Design interactive dashboards and visuals in **Power BI**  
-✅ Build charts like bar plots, histograms, pie charts, box plots, and heatmaps  
-✅ Add filters, slicers, and KPIs in Power BI for dynamic reporting  
-✅ Use visual storytelling to uncover insights and trends  
+echo. >> README.md
+echo #### ⚙️ Preprocessing & Pipelines >> README.md
+echo - Feature Scaling: StandardScaler, MinMaxScaler, RobustScaler, MaxAbsScaler, QuantileTransformer, PowerTransformer >> README.md
+echo - Data Transformation: Log, Square Root, Box-Cox, Yeo-Johnson >> README.md
+echo - Imputation: SimpleImputer, KNNImputer, IterativeImputer >> README.md
+echo - Encoding: Label, OneHot, Ordinal, Target Encoding >> README.md
+echo - Outlier Detection: IQR, Z-Score, Visualization >> README.md
+echo - Automated Pipelines: Pipeline, ColumnTransformer, full preprocessing flows >> README.md
+echo - AutoML: PyCaret for quick model comparison, deployment, and performance boosting >> README.md
 
----
+echo. >> README.md
+echo #### 📊 Data Analysis & Visualization >> README.md
+echo - Libraries: matplotlib, seaborn, plotly >> README.md
+echo - Charts: bar plots, pie charts, boxplots, histograms, heatmaps, correlation maps >> README.md
+echo - Power BI: slicers, drill-throughs, DAX formulas, filters, KPIs, interactive dashboards >> README.md
+echo - Excel: pivot tables, formulas, charts, conditional formatting >> README.md
 
-### 🧪 Data Preparation for Machine Learning
-✅ Scale features using StandardScaler, MinMaxScaler, Quantile & PowerTransformer  
-✅ Use feature engineering techniques to improve model performance  
-✅ Build preprocessing pipelines using `scikit-learn`  
-✅ Evaluate model inputs for skewness, correlation, and feature importance  
-✅ Understand how to structure training and test sets properly  
+echo. >> README.md
+echo #### 🧪 Projects & Notebooks >> README.md
+echo - ML model folders covering: scaling, encoding, imputers, outliers, transformation, pipelines >> README.md
+echo - Implemented all major regression and classification models >> README.md
+echo - Compared algorithms on synthetic and real datasets >> README.md
+echo - Showcased model strengths and weaknesses (e.g., K-Means vs DBSCAN on non-spherical data) >> README.md
 
----
+echo. >> README.md
+echo --- >> README.md
+echo. >> README.md
 
-### 🎬 AI Video Creation
-✅ Convert text into videos using AI video generators  
-✅ Transform voice or script into dynamic visuals  
-✅ Use AI for image-to-video and video-to-video generation  
-✅ Ideal for Fiverr clients wanting tech-style intros or explainer content  
+echo ### 🤖 AI Video & Content Creation >> README.md
+echo - AI Tools: Text-to-video, Image-to-video, Video-to-video generation >> README.md
+echo - Use for Fiverr projects, educational content, and social media >> README.md
+echo - Video Editing Software: >> README.md
+echo   - Adobe Premiere Pro >> README.md
+echo   - CapCut >> README.md
+echo   - DaVinci Resolve >> README.md
+echo   - Filmora >> README.md
 
----
+echo. >> README.md
+echo --- >> README.md
+echo. >> README.md
 
-### 🧰 Tools & Technologies
+echo ### 🎨 Design & Image Editing >> README.md
+echo - Adobe Photoshop – professional image editing >> README.md
+echo - Adobe Illustrator – vector designs, logos, banners >> README.md
+echo - Canva – quick and beautiful social media content >> README.md
 
-**Visualization:**  
-✅ `Power BI` — interactive dashboards and business reports  
-✅ `matplotlib`, `seaborn`, `plotly` — statistical plots and data storytelling  
+echo. >> README.md
+echo --- >> README.md
+echo. >> README.md
 
-**Data Cleaning & Analysis:**  
-✅ `Python` — pandas, numpy for wrangling, cleaning, transforming large datasets  
-✅ `Excel` — formulas, pivot tables, filters, charts for structured analysis  
+echo ### 🧰 Tools & Technologies >> README.md
 
-**Machine Learning:**  
-✅ `scikit-learn` — feature scaling, encoding, model building, pipelines, evaluation  
-✅ `Jupyter Notebook` & `VS Code` — for ML development and experimentation  
+echo ^| Category ^| Tools & Libraries ^| >> README.md
+echo ^|-----------------------^|------------------^| >> README.md
+echo ^| ML & DS ^| Python, scikit-learn, NumPy, pandas, PyCaret ^| >> README.md
+echo ^| Visualization ^| matplotlib, seaborn, plotly, Power BI ^| >> README.md
+echo ^| Data Handling ^| Excel, SQL (basic to intermediate), PostgreSQL (learning) ^| >> README.md
+echo ^| Coding Platforms ^| Jupyter Notebook, VS Code ^| >> README.md
+echo ^| AI Video Tools ^| Pictory, Runway, Synthesia, CapCut AI ^| >> README.md
+echo ^| Photo & Video Editing ^| Photoshop, Illustrator, DaVinci Resolve, Premiere Pro, Filmora ^| >> README.md
 
-**Databases:**  
-✅ `SQL` — basic querying, filtering, sorting, joins for structured data access  
-✅ `PostgreSQL` — currently learning for advanced querying and database handling  
-
-**AI Tools:**  
-✅ AI video tools — text-to-video, image-to-video, video-to-video (for Fiverr & content creation)  
-✅ AI image generators — text-to-image visuals for presentations and promos  
-
-**Video Editing:**  
-✅ `Adobe Premiere Pro` — advanced editing, color grading, transitions  
-✅ `CapCut` — quick edits, subtitles, TikTok/YouTube-friendly content  
-✅ `DaVinci Resolve` — professional color grading and editing workflow  
-✅ `Filmora` — beginner-friendly effects and video creation  
-
-**Photo Editing & Design:**  
-✅ `Adobe Photoshop` — professional image editing, retouching, background removal  
-✅ `Adobe Illustrator` — vector designs, banners, logos, and professional graphics  
-✅ `Canva` — quick designs, social media graphics, thumbnails, posters  
 
 ---
 
