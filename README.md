@@ -1,95 +1,83 @@
-echo ## 👋 Hi, I'm Muhammad Abdullah > README.md
-echo **💻 Machine Learning Engineer ^| 📊 Data Analyst ^| 🤖 NLP Learner ^| 🎬 AI Video Creator** >> README.md
+## 👋 Hi, I'm Muhammad Abdullah  
+**💻 Machine Learning Engineer | 📊 Data Analyst | 🤖 NLP Learner | 🎬 AI Video Creator**
 
-echo. >> README.md
-echo --- >> README.md
-echo. >> README.md
+---
 
-echo ### 🔍 About Me >> README.md
-echo ✅ Passionate about solving real-world problems with data and intelligent systems >> README.md
-echo ✅ Experienced in full ML pipeline: data preprocessing, modeling, evaluation, and deployment >> README.md
-echo ✅ Skilled in Python, scikit-learn, Power BI, Excel, and SQL >> README.md
-echo ✅ Exploring NLP and Deep Learning to build smarter AI solutions >> README.md
-echo ✅ Delivering AI-generated videos and visuals for clients on Fiverr >> README.md
-echo ✅ Always learning, building, and sharing knowledge in tech >> README.md
+### 🔍 About Me
+✅ Passionate about solving real-world problems with data and intelligent systems  
+✅ Experienced in full ML pipeline: data preprocessing, modeling, evaluation, and deployment  
+✅ Skilled in Python, scikit-learn, Power BI, Excel, and SQL  
+✅ Exploring NLP and Deep Learning to build smarter AI solutions  
+✅ Delivering AI-generated videos and visuals for clients on Fiverr  
+✅ Always learning, building, and sharing knowledge in tech  
 
-echo. >> README.md
-echo --- >> README.md
-echo. >> README.md
+---
 
-echo ### 📚 Skills Overview >> README.md
+### 📚 Skills Overview
 
-echo #### 🧠 Machine Learning >> README.md
-echo - Supervised Learning: Linear Regression, Logistic Regression, KNN, SVM, Naive Bayes >> README.md
-echo - Ensemble Models: Random Forest, Extra Trees, Bagging, AdaBoost >> README.md
-echo - Boosting: XGBoost, LightGBM, CatBoost, GradientBoostingRegressor >> README.md
-echo - Unsupervised Learning: K-Means, DBSCAN, PCA, Clustering on synthetic datasets >> README.md
-echo - Regularization: Lasso (L1), Ridge (L2), ElasticNet >> README.md
-echo - Polynomial Regression for non-linear patterns >> README.md
-echo - Hyperparameter tuning: GridSearchCV, RandomizedSearchCV >> README.md
-echo - Cross-validation: K-Fold, Stratified K-Fold >> README.md
-echo - Evaluation metrics: MAE, MSE, RMSE, R², Accuracy, Precision, Recall, F1-Score >> README.md
+#### 🧠 Machine Learning
+- Supervised Learning: Linear Regression, Logistic Regression, KNN, SVM, Naive Bayes  
+- Ensemble Models: Random Forest, Extra Trees, Bagging, AdaBoost  
+- Boosting: XGBoost, LightGBM, CatBoost, GradientBoostingRegressor  
+- Unsupervised Learning: K-Means, DBSCAN, PCA, Clustering on synthetic datasets  
+- Regularization: Lasso (L1), Ridge (L2), ElasticNet  
+- Polynomial Regression for non-linear patterns  
+- Hyperparameter tuning: GridSearchCV, RandomizedSearchCV  
+- Cross-validation: K-Fold, Stratified K-Fold  
+- Evaluation metrics: MAE, MSE, RMSE, R², Accuracy, Precision, Recall, F1-Score  
 
-echo. >> README.md
-echo #### ⚙️ Preprocessing & Pipelines >> README.md
-echo - Feature Scaling: StandardScaler, MinMaxScaler, RobustScaler, MaxAbsScaler, QuantileTransformer, PowerTransformer >> README.md
-echo - Data Transformation: Log, Square Root, Box-Cox, Yeo-Johnson >> README.md
-echo - Imputation: SimpleImputer, KNNImputer, IterativeImputer >> README.md
-echo - Encoding: Label, OneHot, Ordinal, Target Encoding >> README.md
-echo - Outlier Detection: IQR, Z-Score, Visualization >> README.md
-echo - Automated Pipelines: Pipeline, ColumnTransformer, full preprocessing flows >> README.md
-echo - AutoML: PyCaret for quick model comparison, deployment, and performance boosting >> README.md
+#### ⚙️ Preprocessing & Pipelines
+- Feature Scaling: StandardScaler, MinMaxScaler, RobustScaler, MaxAbsScaler, QuantileTransformer, PowerTransformer  
+- Data Transformation: Log, Square Root, Box-Cox, Yeo-Johnson  
+- Imputation: SimpleImputer, KNNImputer, IterativeImputer  
+- Encoding: Label, OneHot, Ordinal, Target Encoding  
+- Outlier Detection: IQR, Z-Score, Visualization  
+- Automated Pipelines: Pipeline, ColumnTransformer, full preprocessing flows  
+- AutoML: PyCaret for quick model comparison, deployment, and performance boosting  
 
-echo. >> README.md
-echo #### 📊 Data Analysis & Visualization >> README.md
-echo - Libraries: matplotlib, seaborn, plotly >> README.md
-echo - Charts: bar plots, pie charts, boxplots, histograms, heatmaps, correlation maps >> README.md
-echo - Power BI: slicers, drill-throughs, DAX formulas, filters, KPIs, interactive dashboards >> README.md
-echo - Excel: pivot tables, formulas, charts, conditional formatting >> README.md
+#### 📊 Data Analysis & Visualization
+- Libraries: matplotlib, seaborn, plotly  
+- Charts: bar plots, pie charts, boxplots, histograms, heatmaps, correlation maps  
+- Power BI: slicers, drill-throughs, DAX formulas, filters, KPIs, interactive dashboards  
+- Excel: pivot tables, formulas, charts, conditional formatting  
 
-echo. >> README.md
-echo #### 🧪 Projects & Notebooks >> README.md
-echo - ML model folders covering: scaling, encoding, imputers, outliers, transformation, pipelines >> README.md
-echo - Implemented all major regression and classification models >> README.md
-echo - Compared algorithms on synthetic and real datasets >> README.md
-echo - Showcased model strengths and weaknesses (e.g., K-Means vs DBSCAN on non-spherical data) >> README.md
+#### 🧪 Projects & Notebooks
+- ML model folders covering: scaling, encoding, imputers, outliers, transformation, pipelines  
+- Implemented all major regression and classification models  
+- Compared algorithms on synthetic and real datasets  
+- Showcased model strengths and weaknesses (e.g., K-Means vs DBSCAN on non-spherical data)  
 
-echo. >> README.md
-echo --- >> README.md
-echo. >> README.md
+---
 
-echo ### 🤖 AI Video & Content Creation >> README.md
-echo - AI Tools: Text-to-video, Image-to-video, Video-to-video generation >> README.md
-echo - Use for Fiverr projects, educational content, and social media >> README.md
-echo - Video Editing Software: >> README.md
-echo   - Adobe Premiere Pro >> README.md
-echo   - CapCut >> README.md
-echo   - DaVinci Resolve >> README.md
-echo   - Filmora >> README.md
+### 🤖 AI Video & Content Creation
+- AI Tools: Text-to-video, Image-to-video, Video-to-video generation  
+- Use for Fiverr projects, educational content, and social media  
+- Video Editing Software:  
+  - Adobe Premiere Pro  
+  - CapCut  
+  - DaVinci Resolve  
+  - Filmora  
 
-echo. >> README.md
-echo --- >> README.md
-echo. >> README.md
+---
 
-echo ### 🎨 Design & Image Editing >> README.md
-echo - Adobe Photoshop – professional image editing >> README.md
-echo - Adobe Illustrator – vector designs, logos, banners >> README.md
-echo - Canva – quick and beautiful social media content >> README.md
+### 🎨 Design & Image Editing
+- Adobe Photoshop – professional image editing  
+- Adobe Illustrator – vector designs, logos, banners  
+- Canva – quick and beautiful social media content  
 
-echo. >> README.md
-echo --- >> README.md
-echo. >> README.md
+---
 
-echo ### 🧰 Tools & Technologies >> README.md
+### 🧰 Tools & Technologies
 
-echo ^| Category ^| Tools & Libraries ^| >> README.md
-echo ^|-----------------------^|------------------^| >> README.md
-echo ^| ML & DS ^| Python, scikit-learn, NumPy, pandas, PyCaret ^| >> README.md
-echo ^| Visualization ^| matplotlib, seaborn, plotly, Power BI ^| >> README.md
-echo ^| Data Handling ^| Excel, SQL (basic to intermediate), PostgreSQL (learning) ^| >> README.md
-echo ^| Coding Platforms ^| Jupyter Notebook, VS Code ^| >> README.md
-echo ^| AI Video Tools ^| Pictory, Runway, Synthesia, CapCut AI ^| >> README.md
-echo ^| Photo & Video Editing ^| Photoshop, Illustrator, DaVinci Resolve, Premiere Pro, Filmora ^| >> README.md
+| Category              | Tools & Libraries                                 |
+|-----------------------|---------------------------------------------------|
+| ML & DS               | Python, scikit-learn, NumPy, pandas, PyCaret      |
+| Visualization         | matplotlib, seaborn, plotly, Power BI             |
+| Data Handling         | Excel, SQL (basic to intermediate), PostgreSQL (learning) |
+| Coding Platforms      | Jupyter Notebook, VS Code                         |
+| AI Video Tools        | Pictory, Runway, Synthesia, CapCut AI             |
+| Photo & Video Editing | Photoshop, Illustrator, DaVinci Resolve, Premiere Pro, Filmora |
+
 
 
 ---
