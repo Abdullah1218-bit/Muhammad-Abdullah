@@ -13,7 +13,7 @@
 
 ---
 
-# 📚 Skills Overview
+## 📚 Skills Overview
 
 ### 🧠 Machine Learning
 - Supervised Learning: Linear Regression, Logistic Regression, KNN, SVM, Naive Bayes  
