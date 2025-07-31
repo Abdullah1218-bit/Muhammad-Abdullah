@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Muhammad Abdullah  
-**💻 Machine Learning Engineer | 📊 Data Analyst | 🤖 NLP Learner | 🎬 AI Video Creator**
+**🛠️ Machine Learning Engineer | 📊 Data Analyst | 🤖 NLP Begineer | 📚 AI Learner**
 
 ---
 
