@@ -3,7 +3,7 @@
 
 ---
 
-### 🔍 About Me
+# 🔍 About Me
 ✅ Passionate about solving real-world problems with data and intelligent systems  
 ✅ Experienced in full ML pipeline: data preprocessing, modeling, evaluation, and deployment  
 ✅ Skilled in Python, scikit-learn, Power BI, Excel,MySQL and PostgreSQL  
@@ -13,9 +13,9 @@
 
 ---
 
-### 📚 Skills Overview
+# 📚 Skills Overview
 
-#### 🧠 Machine Learning
+### 🧠 Machine Learning
 - Supervised Learning: Linear Regression, Logistic Regression, KNN, SVM, Naive Bayes  
 - Ensemble Models: Random Forest, Extra Trees, Bagging, AdaBoost  
 - Boosting: XGBoost, LightGBM, CatBoost, GradientBoostingRegressor  
@@ -26,7 +26,7 @@
 - Cross-validation: K-Fold, Stratified K-Fold  
 - Evaluation metrics: MAE, MSE, RMSE, R², Accuracy, Precision, Recall, F1-Score  
 
-#### ⚙️ Preprocessing & Pipelines
+### ⚙️ Preprocessing & Pipelines
 - Feature Scaling: StandardScaler, MinMaxScaler, RobustScaler, MaxAbsScaler, QuantileTransformer, PowerTransformer  
 - Data Transformation: Log, Square Root, Box-Cox, Yeo-Johnson  
 - Imputation: SimpleImputer, KNNImputer, IterativeImputer  
@@ -35,13 +35,13 @@
 - Automated Pipelines: Pipeline, ColumnTransformer, full preprocessing flows  
 - AutoML: PyCaret for quick model comparison, deployment, and performance boosting  
 
-#### 📊 Data Analysis & Visualization
+### 📊 Data Analysis & Visualization
 - Libraries: matplotlib, seaborn, plotly  
 - Charts: bar plots, pie charts, boxplots, histograms, heatmaps, correlation maps  
 - Power BI: slicers, drill-throughs, DAX formulas, filters, KPIs, interactive dashboards  
 - Excel: pivot tables, formulas, charts, conditional formatting  
 
-#### 🧪 Projects & Notebooks
+### 🧪 Projects & Notebooks
 - ML model folders covering: scaling, encoding, imputers, outliers, transformation, pipelines  
 - Implemented all major regression and classification models  
 - Compared algorithms on synthetic and real datasets  
@@ -49,7 +49,7 @@
 
 ---
 
-### 🤖 AI Video & Content Creation
+## 🤖 AI Video & Content Creation
 - AI Tools: Text-to-video, Image-to-video, Video-to-video generation  
 - Use for Fiverr projects, educational content, and social media  
 - Video Editing Software:  
@@ -60,14 +60,14 @@
 
 ---
 
-### 🎨 Design & Image Editing
+## 🎨 Design & Image Editing
 - Adobe Photoshop – professional image editing  
 - Adobe Illustrator – vector designs, logos, banners  
 - Canva – quick and beautiful social media content  
 
 ---
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 | Category              | Tools & Libraries                                                                |
 |-----------------------|----------------------------------------------------------------------------------|
@@ -82,7 +82,7 @@
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 ✅ Email: **abdullah797815@gmail.com**  
 
 ✅ Open to collaboration on data projects, AI content, and machine learning work
