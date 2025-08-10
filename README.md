@@ -107,9 +107,10 @@
 </a>
 
 
-  <!-- LinkedIn (no link) -->
+<!-- LinkedIn Profile -->
+<a href="https://www.linkedin.com/in/muhammad-abdullah-a8a648378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" />
-</p>
+</a>
 
 
 ---
