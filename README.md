@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Muhammad Abdullah</h1>
 
 <p align="center">
-  <h2 <b>Founder & CEO of <b>CoreCodeX</b></b><br> </h2>
+  <b>Founder & CEO of <span style="color:#2c3e50;">CoreCodeX</span></b><br>
   <b>Machine Learning Engineer</b> & <b>Data Analyst</b><br>
   Passionate about transforming data into actionable insights and building intelligent systems.<br>
   Skilled in <b>Python, Power BI, Excel, SQL</b> with a growing focus on <b>Deep Learning</b> (TensorFlow & Keras).
@@ -12,10 +12,10 @@
 <h2>🛠️ Skills</h2>
 
 <ul>
-  <li><b>Data Analytics:</b> Python (pandas, NumPy), Power BI, Excel</li>
   <li><b>Machine Learning:</b> scikit-learn (regression, classification, evaluation), Model Deployment (Streamlit)</li>
+  <li><b>Data Analytics:</b> Python (pandas, NumPy), Power BI, Excel</li>
   <li><b>Visualization:</b> matplotlib, seaborn, plotly, Power BI dashboards</li>
-  <li><b>Databases & Tools:</b> MySQL, PostgreSQL, Git, VS Code, Jupyter Notebook</li>
+  <li><b>Databases:</b> MySQL, PostgreSQL</li>
 </ul>
 
 <hr>
@@ -23,6 +23,7 @@
 <h2>🚀 Projects</h2>
 
 <ul>
+  <li><b>Palestine Casualties & Injuries Dataset</b> – Open-source dataset highlighting demographics, occupation, and location-based insights for humanitarian analysis</li>
   <li><b>Pakistan Medicines Dataset</b> – Custom dataset for healthcare analytics & ML</li>
   <li><b>Heart Disease Prediction</b> – ML model (92% accuracy) with Streamlit deployment</li>
   <li><b>Wine Quality Prediction</b> – Regression & classification models using physicochemical data</li>
