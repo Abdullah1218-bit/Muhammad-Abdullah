@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I’m Muhammad Abdullah</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer</b> & <b>Data Analyst</b> passionate about transforming data into actionable insights and building intelligent systems.<br>
+  <b>Machine Learning Engineer</b> & <b>Data Analyst</b><br>
+  Founder & CEO of <b>CoreCodeX</b><br>
+  Passionate about transforming data into actionable insights and building intelligent systems.<br>
   Skilled in <b>Python, Power BI, Excel, SQL</b> with a growing focus on <b>Deep Learning</b> (TensorFlow & Keras).
 </p>
 
@@ -33,7 +35,7 @@
 <h2>📬 Contact</h2>
 
 <ul>
-  <li><b>Email:</b> corecodex.ceo@gmail.com</li>
+  <li><b>Email:</b> <a href="mailto:corecodex.ceo@gmail.com">corecodex.ceo@gmail.com</a></li>
   <li><b>GitHub:</b> <a href="https://github.com/Abdullah1218-bit">Abdullah1218-bit</a></li>
   <li><b>Portfolio:</b> <a href="https://www.notion.so/Muhammad-Abdullah-Portfolio-24627e29b1f980c1a9cef6d6560a60a8">Notion Portfolio</a></li>
 </ul>
