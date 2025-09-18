@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I’m Muhammad Abdullah</h1>
 
 <p align="center">
+  <b>Founder & CEO of <b>CoreCodeX</b></b>b><br>
   <b>Machine Learning Engineer</b> & <b>Data Analyst</b><br>
-  Founder & CEO of <b>CoreCodeX</b><br>
   Passionate about transforming data into actionable insights and building intelligent systems.<br>
   Skilled in <b>Python, Power BI, Excel, SQL</b> with a growing focus on <b>Deep Learning</b> (TensorFlow & Keras).
 </p>
